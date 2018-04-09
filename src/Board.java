@@ -1,5 +1,5 @@
 /**
- * @author		Cody Shearer <codyislink@live.com>
+ * @author		Cody Shearer <cjshearer@live.com>
  * @version		1.0
  * @since		1.0
 */
